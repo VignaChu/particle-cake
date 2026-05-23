@@ -1,0 +1,37 @@
+{
+  "name": "particle-cake",
+  "version": "1.0.0",
+  "description": "3D particle cake effect library - Create beautiful birthday cake animations with particles",
+  "main": "dist/particle-cake.min.js",
+  "unpkg": "dist/particle-cake.min.js",
+  "jsdelivr": "dist/particle-cake.min.js",
+  "keywords": [
+    "particle",
+    "cake",
+    "birthday",
+    "three.js",
+    "animation",
+    "3d",
+    "firework"
+  ],
+  "authors": [
+    {
+      "name": "VignaChu",
+      "url": "https://github.com/VignaChu"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VignaChu/particle-cake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VignaChu/particle-cake/issues"
+  },
+  "peerDependencies": {
+    "three": ">=0.128.0"
+  },
+  "devDependencies": {
+    "three": "^0.128.0"
+  }
+}
